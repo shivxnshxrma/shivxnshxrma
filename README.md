@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=535&lines=Code.+Create.+Conquer.;Dream+big%2C+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000¢er=true&vCenter=true&width=535&lines=Code.+Create.+Conquer.;Dream+big%2C+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed.)]
 
 # 👽 About Me  
 Hey there! I’m **Shivansh Sharma**, a tech enthusiast with a relentless passion for problem-solving and building impactful solutions. 🚀 I thrive on turning ideas into reality, whether it’s coding a sleek web app or tackling complex challenges. My journey is fueled by persistence, curiosity, and a drive to make a mark in the tech world—both as an employee at a top MNC and as the founder of my own business someday. 💡
