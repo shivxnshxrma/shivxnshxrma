@@ -1,92 +1,87 @@
-<!-- Banner -->
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Code.+Create.+Conquer.;Dream+big%2C+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Create.+Conquer.;Dream+big,+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed." alt="Typing SVG" />
 </p>
 
-<!-- Animated Dev GIF -->
+<!-- Hero Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="developer-coding" />
 </p>
 
 # 👋 Hey, I'm Shivansh Sharma  
 **Developer | Dreamer | Doer**  
 
-🚀 A passionate problem-solver turning tech ideas into reality. Whether it’s building a full-stack app, deploying on the cloud, or optimizing user experience—I'm all in.
+🚀 I’m a passionate full-stack developer who loves solving problems and building real-world apps. My ambition? Land a top MNC job and launch my own tech startup someday.
 
 ---
 
 ## 🚀 My Current Focus
 
-- 🔧 Building full-stack apps with the **MERN stack**
-- 📱 Exploring **React Native** for mobile development
-- ☁️ Scaling my cloud skills with **AWS**
-- 🧠 Learning **Docker** and **TypeScript**
-
-📌 I'm on a mission to land a top MNC job and lay the foundation for my own startup. Let’s build impactful tech!
+- 🔧 Building web apps using the **MERN Stack**
+- 📱 Developing mobile apps with **React Native**
+- ☁️ Learning **AWS**, **Docker**, and **TypeScript**
+- 🧠 Mastering scalable full-stack architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb,mysql,docker,aws,git,github,figma,postman,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb,mysql,docker,aws,git,github,figma,postman,tailwind" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🤝 Collaboration Goals
+## 🤝 Open to Collaborations
 
-💬 I’m actively looking to collaborate on:
+I'm excited to collaborate on:
+- 🧑‍💻 Full-stack web projects
+- 🛠️ REST & GraphQL APIs
+- 🧪 Real-time & scalable apps
+- ☁️ Cloud-native microservices
 
-- ✨ Full-stack web apps
-- 📲 Cross-platform mobile apps
-- 🛠️ Backend systems & APIs
-- ☁️ Cloud-native tools on AWS
-
-🧑‍🤝‍🧑 I love working with people smarter than me. If you're learning, teaching, or building — let's connect.
-
----
-
-## 📚 Lifelong Learner
-
-> “Learning is my superpower.”
-
-Currently building skills in:
-
-- 🐳 Dockerized development
-- 📦 Serverless AWS Lambda
-- 🔐 Type-safe APIs with TypeScript
-- 🎯 Real-world scalable web architecture
+Let’s build something meaningful!
 
 ---
 
-## 🎮 Outside of Code
+## 📚 Always Learning
 
-- ⚽ Sports enthusiast – I believe in hustle, teamwork, and strategy
-- 🧩 Puzzle & problem-solving addict
-- 🚀 I treat every bug like a mini-boss battle
+> _“Learning is my superpower.”_
+
+Currently diving deep into:
+- 🐳 Docker containers
+- ☁️ AWS Lambda & S3
+- 🧩 Type-safe full-stack development
+
+---
+
+## 🎮 Life Beyond Code
+
+- ⚽ I’m a sports lover who believes in hustle and strategy  
+- 🧩 I thrive on solving real-world problems  
+- 👊 I believe persistence beats talent when talent doesn’t persist
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="debug-gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="debugging-gif" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect!
 
 <p align="center">
   <a href="https://instagram.com/shivxnshxrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shivansh-sharma-69452131a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/shivxnshxrma"><img src="https://img.shields.io/badge/X-black?logo=X&logoColor=white" /></a>
+  <a href="https://x.com/shivxnshxrma"><img src="https://img.shields.io/badge/X-%23000000?logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivxnshxrma&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnshxrma&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivxnshxrma&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxnshxrma&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -94,12 +89,12 @@ Currently building skills in:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivxnshxrma&theme=radical&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivxnshxrma&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -107,9 +102,11 @@ Currently building skills in:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shivxnshxrma&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shivxnshxrma&icon=2&color=12" />
+</p>
 
 ---
 
-> _"Build what you love. Learn what you lack. Share what you master."_  
-> Made with ❤️ by Shivansh Sharma
+> _“Build what you love. Learn what you lack. Share what you master.”_  
+> — Made with ❤️ by Shivansh Sharma
