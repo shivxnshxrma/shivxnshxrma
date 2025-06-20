@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Code.+Create.+Conquer.;Dream+big,+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed." alt="Typing SVG" />
 </p>
 
-<!-- Aesthetic Coding Hero Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/kJ6M6rV0gWbyMP9D9z/giphy.gif" width="100%" alt="chrome-dino-game-banner" />
-</p>
-
 
 # 👋 Hey, I'm Shivansh Sharma  
 **Developer | Dreamer | Doer**  
@@ -60,9 +55,6 @@ Currently digging into:
 - 💥 Fail fast, learn faster  
 - 💯 Build with impact, not just code  
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" alt="aesthetic-coding-banner" />
-</p>
 
 ---
 
