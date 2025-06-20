@@ -93,11 +93,5 @@ Currently digging into:
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shivxnshxrma&icon=2&color=12" />
-</p>
-
----
-
 > _“Build what you love. Learn what you lack. Share what you master.”_  
 > — Made with ❤️ by Shivansh Sharma
