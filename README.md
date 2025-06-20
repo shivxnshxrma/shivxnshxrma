@@ -5,8 +5,9 @@
 
 <!-- Aesthetic Coding Hero Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" alt="hero-coding-banner" />
+  <img src="https://media.giphy.com/media/kJ6M6rV0gWbyMP9D9z/giphy.gif" width="100%" alt="chrome-dino-game-banner" />
 </p>
+
 
 # 👋 Hey, I'm Shivansh Sharma  
 **Developer | Dreamer | Doer**  
