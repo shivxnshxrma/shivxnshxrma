@@ -1,11 +1,11 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Code.+Create.+Conquer.;Dream+big,+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Code.+Create.+Conquer.;Dream+big,+build+bigger.;Every+challenge+is+a+chance+to+grow.;Persist.+Solve.+Succeed." alt="Typing SVG" />
 </p>
 
-<!-- Hero Coding GIF -->
+<!-- Aesthetic Coding Hero Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="developer-coding" />
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="100%" alt="hero-coding-banner" />
 </p>
 
 # 👋 Hey, I'm Shivansh Sharma  
@@ -15,12 +15,12 @@
 
 ---
 
-## 🚀 My Current Focus
+## 🚀 Current Focus
 
-- 🔧 Building web apps using the **MERN Stack**
-- 📱 Developing mobile apps with **React Native**
-- ☁️ Learning **AWS**, **Docker**, and **TypeScript**
-- 🧠 Mastering scalable full-stack architecture
+- ⚙️ MERN Stack web development  
+- 📱 React Native mobile apps  
+- ☁️ AWS, Docker, and TypeScript  
+- 🧠 Scalable full-stack architecture  
 
 ---
 
@@ -32,42 +32,40 @@
 
 ---
 
-## 🤝 Open to Collaborations
+## 🤝 Collaboration Goals
 
-I'm excited to collaborate on:
-- 🧑‍💻 Full-stack web projects
-- 🛠️ REST & GraphQL APIs
-- 🧪 Real-time & scalable apps
-- ☁️ Cloud-native microservices
-
-Let’s build something meaningful!
+💬 I love collaborating on:
+- 🌐 Web apps & real-world solutions  
+- 🧩 API-driven full-stack systems  
+- ☁️ Cloud-native projects with AWS  
+- 💡 Anything that pushes boundaries  
 
 ---
 
-## 📚 Always Learning
+## 📚 Lifelong Learning
 
-> _“Learning is my superpower.”_
+> _"Learning is my superpower."_
 
-Currently diving deep into:
-- 🐳 Docker containers
-- ☁️ AWS Lambda & S3
-- 🧩 Type-safe full-stack development
+Currently digging into:
+- 🐳 Dockerizing projects  
+- ☁️ Cloud functions with AWS  
+- 🧠 Type-safe architecture with TypeScript  
 
 ---
 
-## 🎮 Life Beyond Code
+## 🧠 Philosophy
 
-- ⚽ I’m a sports lover who believes in hustle and strategy  
-- 🧩 I thrive on solving real-world problems  
-- 👊 I believe persistence beats talent when talent doesn’t persist
+- 🔁 Consistency beats talent  
+- 💥 Fail fast, learn faster  
+- 💯 Build with impact, not just code  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="debugging-gif" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%" alt="aesthetic-coding-banner" />
 </p>
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/shivxnshxrma"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white" /></a>
@@ -94,7 +92,7 @@ Currently diving deep into:
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
