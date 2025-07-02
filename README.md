@@ -77,14 +77,6 @@ Currently digging into:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivxnshxrma&theme=radical&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
